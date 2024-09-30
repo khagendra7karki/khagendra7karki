@@ -105,5 +105,4 @@
   </a>
   <br>
   
-<p align="right" > Created with 🖤 by <a href="https://github.com/khagendra7karki">khagendra7karki</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=khagendra7karki&label=Profile%20views&color=0e75b6&style=flat" alt="Khagendra Karki" /> </p>
