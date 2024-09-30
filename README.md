@@ -103,6 +103,5 @@
    <a href="https://github.com/khagendra7karki">
     <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <br>
   
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=khagendra7karki&label=Profile%20views&color=0e75b6&style=flat" alt="Khagendra Karki" /> </p>
