@@ -74,7 +74,7 @@
   <a href="https://github.com/khagendra7karki">
     <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=khagendra7karki&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/Ratheshan03">
+  <a href="https://github.com/khagendra7karki">
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khagendra7karki&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
@@ -86,22 +86,22 @@
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/khagendra-karki-431b322a7/">
-   <img align="left" alt=" Ratheshan Sathiyamoorthy | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+   <img align="left" alt="Khagendra Karki | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:khagendra.karki007@gmail.com">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="Khagendra Karki | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://x.com/khagenrda7karki">
     <img align="left" alt="Ratheshan Sathiyamoorthy| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
   <a href="https://www.instagram.com/khagendra7karki/">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+    <img align="left" alt="Khagendra Karki | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
    <a href="https://www.facebook.com/arunkarki761/">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+    <img align="left" alt="Khagendra Karki | Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
    <a href="https://github.com/khagendra7karki">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="left" alt="Khagendra Karki | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=khagendra7karki&label=Profile%20views&color=0e75b6&style=flat" alt="Khagendra Karki" /> </p>
